@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thecodesidekick/code-sidekick/main/assets/icon.png" width="100" />
+  <img src="https://raw.githubusercontent.com/thecodesidekick/code-sidekick/main/assets/logo.png" width="100" />
   <h1>Code Sidekick</h1>
   <p>The official public Issue Tracker and Discussions board for Code Sidekick.</p>
 </div>
