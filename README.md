@@ -6,7 +6,9 @@
 
 <br />
 
-Welcome to the **Code Sidekick** community repository! While the core Code Sidekick engine remains closed-source, this repository serves as our central hub for transparency, feature planning, and community bug tracking.
+Code Sidekick is a browser-native code editor with AI capabilities built in. It's designed to cut the friction of constantly switching between your browser and a separate editor — especially for web developers. Being browser-first, it also packs useful web development utilities that work directly alongside the pages you're building. It's just as handy for quickly reviewing or writing code with a single click.
+
+This repository is our open hub for **bug reports**, **feature requests**, and **community discussions** around the extension.
 
 ## 🐛 Bug Reports
 Found something strange? [Open a new Issue](https://github.com/thecodesidekick/code-sidekick/issues/new/choose) and select **Bug Report**. Please provide as much detail as possible so we can squash it quickly!
