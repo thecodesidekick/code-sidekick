@@ -1,0 +1,36 @@
+name: 🐛 Bug Report
+description: Report unexpected behavior in the Code Sidekick extension or dashboard.
+title: "[BUG] "
+labels: ["bug"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please provide as much detail as possible.
+  - type: input
+    id: version
+    attributes:
+      label: Code Sidekick Version
+      description: Found in the extension settings panel.
+      placeholder: e.g. 1.2.4 Beta
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps To Reproduce
+      description: Steps to reproduce the behavior.
+      placeholder: |
+        1. Open '...'
+        2. Click on '....'
+        3. See error
+    validations:
+      required: true
